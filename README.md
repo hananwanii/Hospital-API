@@ -1,4 +1,6 @@
 # Information about API:
+## Important
+I have attached the references for the link with images but you have to download an then check the readme file
 ### Theme:
 - We’re going to design an API for the doctors of a Hospital which has been allocated by the
 govt for testing and quarantine + well being of COVID-19 patients
